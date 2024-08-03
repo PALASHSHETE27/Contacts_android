@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TheContacts</string>
+    <string name="add_item">Add item</string>
+    <string name="user_image">User Image</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="save">Save</string>
+    <string name="toolbar">toolbar</string>
+    <string name="contact_image">Contact Image</string>
+    <string name="delete_contact">Delete Contact</string>
+    <string name="add_contact">Add Contact</string>
+
+
+</resources>
